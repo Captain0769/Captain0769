@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m a self-driven developer who loves building real-world projects and exploring how systems work under the hood. <br>I focus on creating clean, scalable, and performance-driven web applications while continuously learning modern technologies like basics of cybersecurity, cloud fundamentals, backend architecture, DevOps, and scalable application design. <br>I enjoy turning ideas into deployed products and continuously pushing my limits through hands-on learning.<br>I believe in learning by building, turning ideas into deployed products rather than just concepts.<br>
+# 💫 About Me: ALAKMAR SAHERWALA
+I’m Alakmar Saherwala a self-driven developer who loves building real-world projects and exploring how systems work under the hood. <br>I focus on creating clean, scalable, and performance-driven web applications while continuously learning modern technologies like basics of cybersecurity, cloud fundamentals, backend architecture, DevOps, and scalable application design. <br>I enjoy turning ideas into deployed products and continuously pushing my limits through hands-on learning.<br>I believe in learning by building, turning ideas into deployed products rather than just concepts.<br>
 
 
 ## 🌐 Socials:
